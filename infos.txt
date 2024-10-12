@@ -1,0 +1,3 @@
+Olá, sou um DEV iniciante e fiz este projeto em processo de estudo, fiz este projeto com intuito de informar sobre uma empresa "ficticia"
+que eu mesmo criei. Para fazer essa ladding page eu utilizei 3 técnologias básicas da programação, HTML5, CSS3 e JavaScript, e so agora
+estou me aprofundando em JavaScript, então se esse código não estiver tão bom e por esse motivo. ;)
